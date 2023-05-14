@@ -13,22 +13,36 @@
 
 
 <div align="center">
-    <img
-        src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
-        alt="PHP"
-    />
-    <img
-        src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML5"
-    />
-    <img
-        src="https://img.shields.io/badge/mysql-202020.svg?style=for-the-badge&logo=mysql&logoColor=white"
-        alt="MySQL"
-    />
-    <img
-        src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"
-        alt="GitHub Sponsors"
-    />
+    <a href="https://www.php.net">
+        <img
+            src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+            alt="PHP"
+        />
+    </a>
+    <a href="https://laravel.com">
+        <img
+            src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"
+            alt="Laravel"
+        />
+    </a>
+    <a href="https://www.mysql.com">
+        <img
+            src="https://img.shields.io/badge/mysql-202020.svg?style=for-the-badge&logo=mysql&logoColor=white"
+            alt="MySQL"
+        />
+    </a>
+    <a href="https://www.docker.com">
+        <img
+            src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+            alt="Docker"
+        />
+    </a>
+    <a href="https://github.com/sponsors/mateusabelli">
+        <img
+            src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"
+            alt="GitHub Sponsors"
+        />
+    </a>
 </div>
 
 <br>
